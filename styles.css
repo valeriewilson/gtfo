@@ -3,10 +3,17 @@
   color: #E5E5E5;
 }
 
+.seattle {
+  margin-top: -21px;
+}
+
 html, body, .container-fluid {
   height: 100%;
+  width: 100%;
+  margin-left: 0;
 }
 
 .row {
-  height: 25%;
+  height: 20%;
+  padding-left: 5px;
 }
