@@ -1,6 +1,7 @@
 .seattle, .nyc, .portland {
-  background-color: gray;
+  background-color: #66CCCC;
   color: #E5E5E5;
+  font-family: Arial, Helvetica, sans-serif; 
 }
 
 .seattle {
