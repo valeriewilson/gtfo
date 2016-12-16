@@ -1,19 +1,4 @@
-.gold, .gold small {
-  background-color: gold;
-  color: #403600;
-}
-
-.silver, .silver small {
-  background-color: silver;
-  color: #404040;
-}
-
-.oil, .oil small {
-  background-color: black;
-  color: #E5E5E5;
-}
-
-.platinum, .platinum small {
+.seattle, .nyc, .portland {
   background-color: gray;
   color: #E5E5E5;
 }
@@ -24,28 +9,4 @@ html, body, .container-fluid {
 
 .row {
   height: 25%;
-}
-
-.price {
-  padding-right: 5px;
-}
-
-/* Add a ( before the change */
-.change::before {
-  content: '(';
-}
-
-/* Add a ) after the change */
-.change::after {
-  content: ')';
-}
-
-/* Add a $ before the price */
-.price::before {
-  content: '$';
-}
-
-/* Hide the price and change when they are empty */
-.change:empty, .price:empty {
-  display: none;
 }
