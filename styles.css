@@ -18,3 +18,8 @@ html, body, .container-fluid {
   height: 20%;
   padding-left: 5px;
 }
+
+.weather-img {
+    height: 40px;
+    width: 40px;
+}
