@@ -1,5 +1,5 @@
 .seattle, .nyc, .portland {
-  background-color: #66CCCC;
+  background-color: #ADD8E6;
   font-family: Arial, Helvetica, sans-serif; 
 }
 
@@ -20,6 +20,13 @@ table {
 }
 
 tr {
-    text-indent: 10px;
     height: 50px;
+}
+
+.name {
+    text-indent: 10px;
+}
+
+#price-header, #weather-header {
+    text-align: center;
 }
