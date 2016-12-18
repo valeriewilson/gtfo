@@ -1,25 +1,25 @@
 .seattle, .nyc, .portland {
   background-color: #66CCCC;
-  color: #E5E5E5;
   font-family: Arial, Helvetica, sans-serif; 
-}
-
-.seattle {
-  margin-top: -21px;
 }
 
 html, body, .container-fluid {
   height: 100%;
   width: 100%;
-  margin-left: 0;
-}
-
-.row {
-  height: 20%;
-  padding-left: 5px;
+  font-size: 20px;
+  padding: 0;
 }
 
 .weather-img {
     height: 40px;
     width: 40px;
+}
+
+table {
+    width: 100%;
+}
+
+tr {
+    text-indent: 10px;
+    height: 50px;
 }
