@@ -9,7 +9,7 @@ $(document).ready(function() {
       var temp_f = url.current_observation.temp_f;
       var conditions = url.current_observation.icon_url;
       $("#seattle-weather").html(temp_f + "ºF");
-      $("#seattle-weather-img").attr("href", conditions);
+      $("#seattle-weather-img").attr("src", conditions);
     }
   });
 
@@ -20,7 +20,7 @@ $(document).ready(function() {
       var temp_f = url.current_observation.temp_f;
       var conditions = url.current_observation.icon_url;
       $("#chicago-weather").html(temp_f + "ºF");
-      $("#chicago-weather-img").attr("href", conditions);
+      $("#chicago-weather-img").attr("src", conditions);
     }
   });
 
@@ -31,7 +31,7 @@ $(document).ready(function() {
       var temp_f = url.current_observation.temp_f;
       var conditions = url.current_observation.icon_url;
       $("#nyc-weather").html(temp_f + "ºF");
-      $("#nyc-weather-img").attr("href", conditions);
+      $("#nyc-weather-img").attr("src", conditions);
     }
   });
 
@@ -42,7 +42,7 @@ $(document).ready(function() {
       var temp_f = url.current_observation.temp_f;
       var conditions = url.current_observation.icon_url;
       $("#maui-weather").html(temp_f + "ºF");
-      $("#maui-weather-img").attr("href", conditions);
+      $("#maui-weather-img").attr("src", conditions);
     }
   });
 
@@ -53,7 +53,7 @@ $(document).ready(function() {
       var temp_f = url.current_observation.temp_f;
       var conditions = url.current_observation.icon_url;
       $("#portland-weather").html(temp_f + "ºF");
-      $("#portland-weather-img").attr("href", conditions);
+      $("#portland-weather-img").attr("src", conditions);
     }
   });
 });
