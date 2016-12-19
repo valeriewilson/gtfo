@@ -2,7 +2,7 @@
 
 Simple [Electron](http://electron.atom.io) application that shows the cheapest flight from SFO to one of 5 locations (Seattle, Chicago, NYC, Maui, and Portland), as well as the weather for that location over the duration of the trip.
 
-![Image](flights.png "Image of Electron app")
+![GTFO GIF](http://g.recordit.co/9Hv9oxCs6B.gif)
 
 ## Getting started
 
