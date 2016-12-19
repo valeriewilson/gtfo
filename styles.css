@@ -6,7 +6,7 @@
 html, body, .container-fluid {
   height: 100%;
   width: 100%;
-  font-size: 20px;
+  font-size: 12px;
   padding: 0;
 }
 
@@ -24,9 +24,10 @@ tr {
 }
 
 .name {
+    font-size: 25px;
     text-indent: 10px;
 }
 
-#price-header, #weather-header {
-    text-align: center;
+img {
+  margin-left: 45px;
 }

@@ -9,9 +9,9 @@ electron.app.once('ready', function () {
   // Create a new window
   window = new electron.BrowserWindow({
     // Set the initial width to 400px
-    width: 500,
+    width: 1000,
     // Set the initial height to 400px
-    height: 320,
+    height: 800,
     // Don't show the window until it ready, this prevents any white flickering
     show: false,
     // Don't allow the window to be resized.
