@@ -1,7 +1,7 @@
 {
-  "name": "Prices",
+  "name": "GTFO",
   "version": "1.0.0",
-  "description": "Prices of commodities",
+  "description": "Electron app displaying flight information (Hackbright collaboration)",
   "main": "app.js",
   "scripts": {
     "start": "electron app.js"
