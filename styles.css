@@ -1,51 +1,33 @@
-.gold, .gold small {
-  background-color: gold;
-  color: #403600;
-}
-
-.silver, .silver small {
-  background-color: silver;
-  color: #404040;
-}
-
-.oil, .oil small {
-  background-color: black;
-  color: #E5E5E5;
-}
-
-.platinum, .platinum small {
-  background-color: gray;
-  color: #E5E5E5;
+.seattle, .nyc, .portland {
+  background-color: #ADD8E6;
+  font-family: Arial, Helvetica, sans-serif; 
 }
 
 html, body, .container-fluid {
   height: 100%;
+  width: 100%;
+  font-size: 12px;
+  padding: 0;
 }
 
-.row {
-  height: 25%;
+.weather-img {
+    height: 40px;
+    width: 40px;
 }
 
-.price {
-  padding-right: 5px;
+table {
+    width: 100%;
 }
 
-/* Add a ( before the change */
-.change::before {
-  content: '(';
+tr {
+    height: 50px;
 }
 
-/* Add a ) after the change */
-.change::after {
-  content: ')';
+.name {
+    font-size: 25px;
+    text-indent: 10px;
 }
 
-/* Add a $ before the price */
-.price::before {
-  content: '$';
-}
-
-/* Hide the price and change when they are empty */
-.change:empty, .price:empty {
-  display: none;
+img {
+  margin-left: 45px;
 }
