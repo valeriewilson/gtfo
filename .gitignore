@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 node_modules/
->>>>>>> 152c85d06e7ed96f7268956333f6aa8a1f833831
 env/
 *.sh
 *.DS_Store
