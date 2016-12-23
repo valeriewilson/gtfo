@@ -24,7 +24,7 @@ Simple [Electron](http://electron.atom.io) application that shows the cheapest f
 2. Navigate to the develop branch: `git checkout develop`
 3. Create a new IC branch & navigate to it: `git checkout -b "your_name"`
 
-## Committing code
+### Committing code
 
 1. On your branch, add and commit your files: `git commit -am "Commit message"`
 2. Still on your branch, push your commits to Github: `git push "your_remote" "your_name`
