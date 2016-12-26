@@ -6,7 +6,7 @@ Simple [Electron](http://electron.atom.io) application that shows the cheapest f
 
 ## Collaborators
 
-- [Salomé](https://github.com/salomechamma "Salomé Chamma") - Google Fly API integration
+- [Salomé Chamma](https://github.com/salomechamma "Salomé Chamma") - Google Fly API integration
 - [Thao Le](https://github.com/thaoabunga "Thao Le") - Weather Underground API integration
 - [Valerie Wilson](https://github.com/valeriewilson "Valerie Wilson") - base file setup, Google Fly & Weather Underground API integrations
 - [Catherine Karra](https://github.com/cafrinko "Catherine Karra") - Weather Underground API integrations
